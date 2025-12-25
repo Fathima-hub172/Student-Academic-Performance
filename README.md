@@ -16,6 +16,7 @@ This project leverages Excel for Data Cleaning and Transformation and Power BI t
    Identify grade distribution patterns across courses.
 
    Evaluate course ratings alongside student outcomes to measure effectiveness.
+   
 🛠️ Tools & Technologies
 
    Excel: Data cleaning, transformation, Pivot Tables
